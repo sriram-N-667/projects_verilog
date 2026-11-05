@@ -67,7 +67,7 @@ make wave     # open the waveform in GTKWave
 
 ## Contact
 
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: www.linkedin.com/in/sriram-n-819298383
+- Email: sriramnaren96@gmail.com
 
-*Last updated: [Month Year]*
+*Last updated: novermber 2026
