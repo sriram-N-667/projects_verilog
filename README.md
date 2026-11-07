@@ -11,7 +11,7 @@ something I built, simulated, and can explain.
 
 | # |               Project                         |     Status     |            Key concepts             |
 |---|-----------------------------------------------|----------------|-------------------------------------|
-| 1 | [8-bit ALU with flags](./01-alu)              | 🟡 In progress | Combinational design, testbenches   |
+| 1 | [8-bit ALU with flags](./01-alu)              | ✅ In progress | Combinational design, testbenches   |
 | 2 | [Synchronous FIFO](./02-sync-fifo)            | ⚪ Planned     |Pointers, full/empty logic           |
 | 3 | [UART TX/RX](./03-uart)                       | ⚪ Planned     | FSMs, baud generator                |
 | 4 | [SPI master/slave](./04-spi)                  | ⚪ Planned     | Protocol design                     |
@@ -70,4 +70,4 @@ make wave     # open the waveform in GTKWave
 - LinkedIn: www.linkedin.com/in/sriram-n-819298383
 - Email: sriramnaren96@gmail.com
 
-*Last updated: novermber 2026
+*Last updated: 7 november 2026
