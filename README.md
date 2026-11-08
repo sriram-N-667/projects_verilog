@@ -63,7 +63,7 @@ make wave     # open the waveform in GTKWave
 - *Verilog HDL* by Samir Palnitkar
 - HDLBits, ChipVerify, Verification Academy
 - Cliff Cummings' papers (sunburst-design.com)
-- [Add your own: YouTube channels, NPTEL courses, etc.]
+
 
 ## Contact
 
